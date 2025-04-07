@@ -13,7 +13,7 @@
  * Elementor tested up to: 3.25.0
  * Elementor Pro tested up to: 3.25.0
  */
-
+//bsihal
 if (!defined('ABSPATH')) {
     exit; // Exit if accessed directly.
 }
