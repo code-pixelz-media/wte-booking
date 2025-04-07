@@ -1,0 +1,34 @@
+.booking-calendar-container {
+    max-width: 300px;
+    margin: 0 auto;
+}
+
+.booking-calendar-container .flatpickr-calendar.inline {
+    box-shadow: none;
+    margin: 0 auto;
+}
+
+.elementor-editor-active .booking-calendar-container {
+    min-height: 300px;
+    background: #f5f5f5;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.elementor-editor-active .booking-calendar-container:after {
+    content: "Calendar will appear on frontend";
+    color: #666;
+}
+
+.wte__custom-booking-form{
+    display: flex;
+    flex-direction: column;
+    gap:20px;
+    
+}
+
+.wte__custom-container {
+    display: flex;
+    align-items: center;
+}

@@ -1,13 +1,13 @@
 <?php
 
 /**
- * Plugin Name: Elementor Booking Widget
+ * Plugin Name: WTE Elementor Booking Widget
  * Description: Auto embed any embeddable content from external URLs into Elementor.
  * Plugin URI:  https://github.com/bishalxrauniyar
  * Version:     1.0.0
  * Author:      Elementor Developer
  * Author URI:  https://github.com/bishalxrauniyar
- * Text Domain: elementor-booking-widget
+ * Text Domain: wte-booking-widget
  *
  * Requires Plugins: elementor
  * Elementor tested up to: 3.25.0
